@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color:darkmagenta;
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#count-el{
+    font-size: 7rem;
+    margin: 0;
+}
+
+button{
+    width: 150px;
+    padding: 7px 1px;
+    font-size: 1rem;
+    margin: 3px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+#count-btn{
+    background-color: greenyellow;
+    margin-bottom: 20px;
+}
