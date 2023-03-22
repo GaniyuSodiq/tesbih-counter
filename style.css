@@ -25,3 +25,8 @@ button{
     background-color: greenyellow;
     margin-bottom: 20px;
 }
+
+#count-status{
+    color: chartreuse;
+    font-size: 1.2rem;
+}
